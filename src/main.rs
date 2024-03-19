@@ -1,4 +1,6 @@
 
+mod lib;
+
 pub fn main() {
     add(23, 12);
 }
